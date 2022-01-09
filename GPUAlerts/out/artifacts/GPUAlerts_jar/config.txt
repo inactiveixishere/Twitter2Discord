@@ -1,0 +1,19 @@
+######################################################################################
+######################################################################################
+############################ - Twitter2Discord Config - ##############################
+####                           - Developed by ix -                                ####
+######################################################################################
+#### Fill ALL of this data to run the program successfully.                       ####
+#### Delete config file and re-run program to regenerate an empty config file.    ####
+######################################################################################
+######################################################################################
+ 
+ApiKey=
+ApiKeySecret=
+ApiBearerToken=
+TwitterProfileURL=
+TwitterProfileID=
+WebhookURL=
+WebhookProfilePictureURL=
+WebhookProfileUserName=
+UpdateIntervalMS=
